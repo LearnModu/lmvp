@@ -7,21 +7,19 @@
   <body>
     <img src="./static/nimble1.png" width="450" height="150">
     <br>
-    <div class="video-player">
-      <video width="640" height="360" poster="your-poster.jpg">
-        <source src="miracleos.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
-      <div class="controls">
-        <div class="play-pause"></div>
-        <div class="progress-bar">
-          <div class="progress"></div>
-        </div>
-        <div class="volume"></div>
-        <div class="fullscreen"></div>
-      </div>
-      <div class="play-button">Play</div>
-    </div>
+    <iframe
+      src="embed.html"
+      width="640"
+      height="410"
+      frameborder="0"
+      allowfullscreen
+      style="
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      "
+    ></iframe>
+    <br>
+    <sub>640x410 guarantees watching 360p video.</sub>
     <script src="./js/script.js"></script>
     <p>nimble is a HTML5 video player made for webpages. Learn more over <a href="https://github.com/LearnModu/nimble">here.</a></p>
   </body>
