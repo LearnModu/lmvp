@@ -1,5 +1,5 @@
 # nimble
-<img src="https://github.com/LearnModu/nimble/blob/main/static/nimble2.png?raw=true" width="500px" height="500px" />0
+<img src="https://github.com/LearnModu/nimble/blob/main/static/nimble2.png?raw=true" width="100px" height="100px" />
 <br>
 The greatest video player of all time.
 <br>
