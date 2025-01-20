@@ -1,4 +1,6 @@
 # nimble
+<img src="https://github.com/LearnModu/nimble/blob/main/static/nimble2.png?raw=true" width="500px" height="500px" />0
+<br>
 The greatest video player of all time.
 <br>
 Ditch using plain `<video>` tags. It's time for the **better** video tags.
