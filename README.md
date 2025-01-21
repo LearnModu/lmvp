@@ -6,3 +6,4 @@ The greatest video player of all time.
 ## Preview
 <img src="https://github.com/user-attachments/assets/2ee37a89-689a-4028-ba44-c106f390c081" width="512px" />
 <br>
+[Beta Release](https://gitea.com/404PageN0tFound/nimble/)
