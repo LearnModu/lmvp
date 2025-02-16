@@ -6,5 +6,5 @@ Beta Release: https://gitea.com/404PageN0tFound/nimble/
 <br>
 
 ## Preview
-<img src="https://github.com/user-attachments/assets/2ee37a89-689a-4028-ba44-c106f390c081" width="512px" />
+<a href="https://learnmodu.github.io/nimble"><img src="https://github.com/user-attachments/assets/2ee37a89-689a-4028-ba44-c106f390c081" width="512px" /></a>
 <br>
